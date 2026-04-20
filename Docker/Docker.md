@@ -22,4 +22,4 @@
 # Redes
 ![[Redes]]
 # Comandos Basicos
-![[Comandos Basicos]]
+![[Docker/Paginas/Comandos Basicos]]

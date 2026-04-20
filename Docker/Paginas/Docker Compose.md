@@ -12,4 +12,4 @@ Sus principales ventajas para aplicaciones multicontenedor son:
 - **Eficiencia en el flujo de trabajo:** Al definir "links" o dependencias, el sistema entiende qué contenedores necesitan de otros para funcionar, estructurando el orden de arranque de forma lógica.
 ![[Pasted image 20260222134329.png]]
 # Comandos
-![[Comandos Basicos#Docker Compose]]
+![[Docker/Paginas/Comandos Basicos#Docker Compose]]

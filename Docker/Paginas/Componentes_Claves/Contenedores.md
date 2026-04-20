@@ -7,4 +7,4 @@ Un contenedor es una **instancia de ejecución de una imagen**.
 
 ![[Pasted image 20260222131847.png]]
 # Comandos
-![[Comandos Basicos#Gestión de Contenedores]]
+![[Docker/Paginas/Comandos Basicos#Gestión de Contenedores]]

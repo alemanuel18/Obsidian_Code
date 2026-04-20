@@ -12,4 +12,4 @@ Los aspectos fundamentales de las redes en Docker son:
 Para gestionar estas redes, Docker ofrece comandos específicos como `docker network ls` para listar las redes existentes, `docker network create` para generar nuevas y `docker network rm` para eliminarlas.
 
 # Comandos
-![[Comandos Basicos#Gestión de Redes]]
+![[Docker/Paginas/Comandos Basicos#Gestión de Redes]]

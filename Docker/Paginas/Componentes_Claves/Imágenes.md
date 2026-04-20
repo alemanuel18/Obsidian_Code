@@ -6,7 +6,7 @@ Las imágenes son **archivos inmutables** que sirven como plantillas para crear 
 - Son **portables**, lo que significa que se pueden compartir fácilmente entre desarrolladores y equipos de operaciones a través de repositorios como **Docker Hub**.
 
 # Comandos
-![[Comandos Basicos#Gestión de Imágenes]]
+![[Docker/Paginas/Comandos Basicos#Gestión de Imágenes]]
 # Conseguir imagenes 
 Puedes conseguir imagenes pre echas en docker hub
 ![[DockerHub]]
