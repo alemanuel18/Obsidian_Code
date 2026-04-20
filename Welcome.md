@@ -1,5 +1,6 @@
-This is your new *vault*.
+Hola, esta es mi biblioteca de conocimiento sobre la informatica, en esta encontraras información sobre como utilizar herramientas.
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
+# Docker
+![[Docker]]
+# Terminal 
+![[Terminal]]

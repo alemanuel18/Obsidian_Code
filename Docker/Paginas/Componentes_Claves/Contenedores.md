@@ -6,3 +6,5 @@ Un contenedor es una **instancia de ejecución de una imagen**.
 - Cada contenedor es **independiente**, tiene su propio sistema de archivos y puede ser iniciado, detenido o eliminado de forma casi instantánea.
 
 ![[Pasted image 20260222131847.png]]
+# Comandos
+![[Comandos Basicos#Gestión de Contenedores]]
