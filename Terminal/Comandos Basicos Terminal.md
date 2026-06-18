@@ -1,3 +1,4 @@
+`sudi dbf update
 # whoami
 Muestra con claridad el nombre de usuario con el que has iniciado sesión en tu terminal:
 ```
