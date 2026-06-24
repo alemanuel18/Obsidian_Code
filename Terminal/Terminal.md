@@ -46,3 +46,35 @@ El dominio de la terminal es altamente valorado en grandes empresas tecnológica
 
 - Emplean profesionales con dominio total de la terminal.
 - Consideran esta habilidad básica e imprescindible.
+
+---
+
+## 📂 Índice de Contenidos
+
+- [[Terminal/Administrar procesos|Administrar procesos]]
+- [[Terminal/Alias|Alias]]
+- [[Terminal/Comando de red|Comando de red]]
+- [[Terminal/Comandos Background|Comandos Background]]
+- [[Terminal/Comandos Basicos Terminal|Comandos Basicos Terminal]]
+- [[Terminal/Crear, mover, copiar y eliminar|Crear, mover, copiar y eliminar]]
+- [[Terminal/Directorios|Directorios]]
+- [[Terminal/Empaquetador y compresion|Empaquetador y compresion]]
+- [[Terminal/Encadenar Comandos|Encadenar Comandos]]
+- [[Terminal/Explorar y manipular archivos de texto Terminal|Explorar y manipular archivos de texto Terminal]]
+- [[Terminal/Extras|Extras]]
+- [[Terminal/GREP Y FIND|GREP Y FIND]]
+- [[Terminal/Manejadores de Paquetes|Manejadores de Paquetes]]
+- [[Terminal/Permisos|Permisos]]
+- [[Terminal/Personalizacion|Personalizacion]]
+- [[Terminal/Redirecciones de Linux|Redirecciones de Linux]]
+- [[Terminal/Tipos de comandos y como identificarlos|Tipos de comandos y como identificarlos]]
+- [[Terminal/Tmux, Gestor de paneles|Tmux, Gestor de paneles]]
+- [[Terminal/Variables de entorno|Variables de entorno]]
+- [[Terminal/Vim y Nano|Vim y Nano]]
+- [[Terminal/Warp|Warp]]
+- [[Terminal/Wildcards|Wildcards]]
+
+
+---
+
+[[Welcome|⬅️ Volver al Hub Principal]]

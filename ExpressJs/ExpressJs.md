@@ -74,3 +74,53 @@ Guarda el archivo, vuelve a la terminal y ejecuta `node app.js`. Vas a ver el me
 > **¿Para qué sirve `app.listen` en Express?** Es el método que pone tu servidor a escuchar peticiones en un puerto específico. Sin él, tu aplicación se define pero nunca se ejecuta como servidor.
 
 Desde aquí puedes empezar a sumar rutas, _middlewares_, conexión con bases de datos y toda la lógica que necesite tu producto. El verdadero poder de Express está en que te deja enfocarte en el modelo de negocio, no en pelear con el framework.
+
+---
+
+## 📂 Índice de Contenidos
+
+- [[ExpressJs/Body Parser y Express API|Body Parser y Express API]]
+- [[ExpressJs/Config|Config]]
+- [[ExpressJs/Variables de Entorno|Variables de Entorno]]
+
+### Crud
+- [[ExpressJs/CRUD/Eliminar|Eliminar]]
+- [[ExpressJs/CRUD/GET|GET]]
+- [[ExpressJs/CRUD/Métodos HTTp y Crud|Métodos HTTp y Crud]]
+- [[ExpressJs/CRUD/PUT|PUT]]
+- [[ExpressJs/CRUD/Postman|Postman]]
+- [[ExpressJs/CRUD/Procesamietno de Formularios y JSON con Body Parser|Procesamietno de Formularios y JSON con Body Parser]]
+- [[ExpressJs/CRUD/Validaciones en POST y PUT|Validaciones en POST y PUT]]
+
+### Desplegar
+- [[ExpressJs/Desplegar/Desplegar DB|Desplegar DB]]
+- [[ExpressJs/Desplegar/Desplegar la Api|Desplegar la Api]]
+
+### Estructura
+- [[ExpressJs/Estructura/Admin services|Admin services]]
+- [[ExpressJs/Estructura/Controladores de Admin|Controladores de Admin]]
+- [[ExpressJs/Estructura/Endpoint|Endpoint]]
+- [[ExpressJs/Estructura/Modelacion de la DB|Modelacion de la DB]]
+- [[ExpressJs/Estructura/Organización y estructuras|Organización y estructuras]]
+- [[ExpressJs/Estructura/Refactorizacion|Refactorizacion]]
+- [[ExpressJs/Estructura/Rutas y controladores|Rutas y controladores]]
+- [[ExpressJs/Estructura/Servicios y Controladores|Servicios y Controladores]]
+
+### Json Web Token (Jwt)
+- [[ExpressJs/JSON Web Token (JWT)/Autenticación de Usuarios con JSON|Autenticación de Usuarios con JSON]]
+- [[ExpressJs/JSON Web Token (JWT)/JWT|JWT]]
+- [[ExpressJs/JSON Web Token (JWT)/Registrar Usuarios|Registrar Usuarios]]
+
+### Middleware
+- [[ExpressJs/Middleware/Crear Middleware|Crear Middleware]]
+- [[ExpressJs/Middleware/Middleware de errores|Middleware de errores]]
+
+### Db
+- [[ExpressJs/db/Cargar Data en Prisma por seed|Cargar Data en Prisma por seed]]
+- [[ExpressJs/db/PostgreSQL|PostgreSQL]]
+- [[ExpressJs/db/Prisma|Prisma]]
+
+
+---
+
+[[Welcome|⬅️ Volver al Hub Principal]]
