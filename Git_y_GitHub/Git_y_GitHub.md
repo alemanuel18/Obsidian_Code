@@ -1,7 +1,6 @@
 # 🐙 Git y GitHub
 
 Bienvenido al hub de Git y GitHub. Aquí encontrarás todas las notas relacionadas con este tema organizadas por categorías.
-
 ---
 
 ## 📂 Índice de Contenidos
@@ -12,6 +11,7 @@ Bienvenido al hub de Git y GitHub. Aquí encontrarás todas las notas relacionad
 - [[Git_y_GitHub/Fundamentos/Comandos Básicos y Flujo de Trabajo|Comandos Básicos y Flujo de Trabajo]]
 - [[Git_y_GitHub/Fundamentos/Configuracion y Comandos Básicos|Configuracion y Comandos Básicos]]
 - [[Git_y_GitHub/Fundamentos/Conflictos|Conflictos]]
+- [[Git_y_GitHub/Fundamentos/Eliminar carpeta_archivo de todo el historial en Git|Eliminar carpeta_archivo de todo el historial en Git]]
 - [[Git_y_GitHub/Fundamentos/Gestión de Ramas|Gestión de Ramas]]
 - [[Git_y_GitHub/Fundamentos/Git Reset vs Git Revert|Git Reset vs Git Revert]]
 - [[Git_y_GitHub/Fundamentos/git tag y git checkout|git tag y git checkout]]

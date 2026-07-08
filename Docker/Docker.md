@@ -23,7 +23,6 @@
 ![[Redes]]
 # Comandos Basicos
 ![[Docker/Paginas/Comandos Basicos]]
-
 ---
 
 ## 📂 Índice de Contenidos

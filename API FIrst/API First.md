@@ -45,3 +45,35 @@ El estándar más usado para hacerlo es **OpenAPI**, antes conocido como Swagger
 ## ¿Por qué deberías adoptar API First ahora y no después?
 
 API First es velocidad, claridad y control. Quienes lo adoptan no solo van más rápido, construyen mejor, con menos errores y quedan listos para escalar sin límite. La pregunta deja de ser si lo vas a implementar y se convierte en cuánto te vas a quedar atrás si no lo haces.
+
+---
+
+## 📂 Índice de Contenidos
+
+- [[API FIrst/Configurar OpenAPI|Configurar OpenAPI]]
+- [[API FIrst/OpenAPI|OpenAPI]]
+- [[API FIrst/Primera Openapi|Primera Openapi]]
+
+### Herramientas Y Validación De Apis
+- [[API FIrst/Herramientas y Validación de APIs/Componente de Productos Reutilizables en OpenAPI|Componente de Productos Reutilizables en OpenAPI]]
+- [[API FIrst/Herramientas y Validación de APIs/Endpoint actualizar un usuario|Endpoint actualizar un usuario]]
+- [[API FIrst/Herramientas y Validación de APIs/Multiples respuestas HTTP en OpenAPI|Multiples respuestas HTTP en OpenAPI]]
+- [[API FIrst/Herramientas y Validación de APIs/Validacion con Express OpenAPI Validator|Validacion con Express OpenAPI Validator]]
+- [[API FIrst/Herramientas y Validación de APIs/Validacion con OpenAPI en Express|Validacion con OpenAPI en Express]]
+
+### Validaciones
+- [[API FIrst/Validaciones/Importar OpenAPI en Postman|Importar OpenAPI en Postman]]
+- [[API FIrst/Validaciones/Proteger endpoint con JWT en OpenAPI|Proteger endpoint con JWT en OpenAPI]]
+- [[API FIrst/Validaciones/Prueba de API con Newman|Prueba de API con Newman]]
+- [[API FIrst/Validaciones/Swagger Editor|Swagger Editor]]
+
+### Versionado, Prototipado Y Documentación
+- [[API FIrst/Versionado, Prototipado y Documentación/Crear mock server con Prism CLI|Crear mock server con Prism CLI]]
+- [[API FIrst/Versionado, Prototipado y Documentación/Ejemplos reales en OpenAPI|Ejemplos reales en OpenAPI]]
+- [[API FIrst/Versionado, Prototipado y Documentación/Organización y mejora de documentación OpenAPI|Organización y mejora de documentación OpenAPI]]
+- [[API FIrst/Versionado, Prototipado y Documentación/Versionado de APIs con OpenAPI|Versionado de APIs con OpenAPI]]
+
+
+---
+
+[[Welcome|⬅️ Volver al Hub Principal]]

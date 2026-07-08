@@ -1,7 +1,6 @@
 # 🎨 CSS
 
 Bienvenido al hub de CSS. Aquí encontrarás todas las notas relacionadas con este tema organizadas por categorías.
-
 ---
 
 ## 📂 Índice de Contenidos

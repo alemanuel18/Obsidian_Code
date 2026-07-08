@@ -46,7 +46,6 @@ El dominio de la terminal es altamente valorado en grandes empresas tecnológica
 
 - Emplean profesionales con dominio total de la terminal.
 - Consideran esta habilidad básica e imprescindible.
-
 ---
 
 ## 📂 Índice de Contenidos

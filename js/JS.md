@@ -1,7 +1,6 @@
 # 🟨 JavaScript
 
 Bienvenido al hub de JavaScript. Aquí encontrarás todas las notas relacionadas con este tema organizadas por categorías.
-
 ---
 
 ## 📂 Índice de Contenidos

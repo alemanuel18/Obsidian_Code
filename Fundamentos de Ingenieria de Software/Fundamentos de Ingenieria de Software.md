@@ -1,7 +1,6 @@
 # 📐 Fundamentos de Ingeniería de Software
 
 Bienvenido al hub de Fundamentos de Ingeniería de Software. Aquí encontrarás todas las notas relacionadas con este tema organizadas por categorías.
-
 ---
 
 ## 📂 Índice de Contenidos

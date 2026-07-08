@@ -74,7 +74,6 @@ Guarda el archivo, vuelve a la terminal y ejecuta `node app.js`. Vas a ver el me
 > **¿Para qué sirve `app.listen` en Express?** Es el método que pone tu servidor a escuchar peticiones en un puerto específico. Sin él, tu aplicación se define pero nunca se ejecuta como servidor.
 
 Desde aquí puedes empezar a sumar rutas, _middlewares_, conexión con bases de datos y toda la lógica que necesite tu producto. El verdadero poder de Express está en que te deja enfocarte en el modelo de negocio, no en pelear con el framework.
-
 ---
 
 ## 📂 Índice de Contenidos
