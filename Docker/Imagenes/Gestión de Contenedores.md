@@ -1,0 +1,46 @@
+Docker facilita enormemente el proceso de desplegar aplicaciones al utilizar imágenes y contenedores. Aunque Docker Desktop es una excelente opción visual para manejo local, usar la línea de comandos se vuelve fundamental al automatizar o llevar proyectos a un entorno productivo. Aquí descubrirás cómo pasar de un entorno gráfico amigable a expresivos comandos útiles en producción.
+
+## ¿Cómo cambiar de Docker Desktop a línea de comandos?
+
+Docker Desktop permite correr contenedores fácilmente con solo presionar _Play_ o _Run_. Aunque útil para desarrollo local, esta opción visual limita la automatización y productividad fuera del entorno de desarrollo.
+
+La alternativa idónea para producciones o automatizaciones está en utilizar comandos específicos como `docker run`, que además provee información interactiva del contenedor ejecutándose.
+
+## ¿Qué comandos básicos de Docker debería conocer?
+
+Antes de ejecutar comandos específicos, conviene verificar imágenes y contenedores disponibles en tu entorno:
+
+- `docker images`: permite ver imágenes existentes.
+- `docker ps`: muestra contenedores en ejecución actualmente.
+
+Cuando quieras ejecutar un contenedor desde la línea de comandos, puedes usar la siguiente estructura básica:
+
+```bash
+docker run -it --rm -d -p 8080:80 --name web sitio_web
+```
+
+Cada parámetro tiene un propósito específico:
+
+- `-it`: interacción directa con el contenedor para ver logs o mensajes.
+- `--rm`: elimina versiones anteriores del contenedor al terminar.
+- `-d`: ejecuta el contenedor, listo para usarse posteriormente.
+- `-p`: expone puertos y gestiona conexiones entre el host y el contenedor (`8080:80` significa que localmente usarás el puerto 8080 y la aplicación exactamente puerto 80).
+- `--name`: asigna un nombre al contenedor para fácil identificación.
+
+## ¿Cómo acceder a archivos específicos dentro del contenedor?
+
+Docker facilita verificar archivos directamente en contenedores en ejecución usando Docker Desktop o la terminal de comandos (`exec`).
+
+Para localizar un archivo dentro del contenedor en Docker Desktop:
+
+1. Copia la ruta de interés desde tu editor VS Code.
+2. En Docker Desktop, ingresa a la categoría _exec_ del contenedor.
+3. Usa `ls` para listar contenidos y verificar que files específicos (como `linktree.html`) estén implementados correctamente.
+
+Al acceder desde el navegador, utiliza el puerto que especificaste en `docker run`:
+
+```bash
+localhost:8080/linktree.html
+```
+
+Esto te conectará directamente al contenedor Docker ejecutando tu servidor web (como Nginx), mostrando los beneficios clave de Docker en entornos locales, sin necesidad de instalar software adicional en tu computadora.
